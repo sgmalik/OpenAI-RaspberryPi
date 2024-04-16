@@ -1,5 +1,7 @@
 ****OpenAI With Raspberry Pi**** (API KEY DISABLED)
 
+Collaborated with Brendan Macleer
+
 With the rise of AI and the increasing popularity of chatbots, our group decided to design our own using the openAI interface. Our goal is to create an interactive unit with its own UI, controllable by an LCD touchscreen that allows users to ask questions which will be answered by our implemented AI. We plan for this unit to be used by students as a study tool as well as anyone who is looking for an alternative to chatbots created by companies like Amazon and Google. In order to combat students utilizing AI to cheat on their assignments, we hope to implement user authentication to monitor and control user access to the openAI server. With the increasing price of computers and other various pieces of technology, we wanted to design something that allows those without these technologies to access the power of AI, without the need for expensive hardware. 
 
 As we stated in our introduction, our project is an individual unit that acts as a chatbot with user authentication. Breaking the project down, component by component, we have:
